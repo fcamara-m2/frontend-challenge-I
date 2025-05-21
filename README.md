@@ -31,11 +31,6 @@ Não esqueça da otimização de velocidade e nem da experiência do usuário.
 - Use observable para manipular o estado
 - Não exiba nada caso não esteja logado
 
-### Funcionalidades 📝
-
-- 10% dos quadrinhos carregados devem ser marcados como raros (aleatoriamente no próprio fonte ao carregar o REST).
-- Experimente colocar um banner promocional qualquer no meio da listagem de produtos.
-
 ### Critérios de avaliação ✔️
 
 **Entre os critérios de avaliação estão:**
